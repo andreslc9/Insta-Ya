@@ -1,0 +1,28 @@
+.list {
+    margin-top: 2vw;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    max-width: 100%;
+    float: none;
+    padding-bottom: 25vw;
+}
+
+html, body {
+    min-height: 100%;
+    position: relative;
+    top: 0;
+
+}
+
+@media screen and (max-width: 500px){
+    .list {
+        font-size: 2vw;
+        margin-top: 2vw;
+        margin-left: 15vw;
+        margin-right: 15vw;
+        min-height: 300vw;
+        max-width: 100%;
+        float: none;
+        padding-bottom: 5vw;
+    }
+}

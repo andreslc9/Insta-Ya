@@ -1,0 +1,19 @@
+.footer {
+    background-color:lightgrey;
+    left:0px;
+    bottom:0px;
+    height:100px;
+    width:100%;
+    margin-top: 8vw;
+    padding-top: 10px;
+    position: fixed;
+}
+
+.shadow {
+    width: 100%;
+    bottom: 0px;
+}
+
+html, body{
+    min-height: 100%;
+}

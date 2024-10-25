@@ -1,0 +1,28 @@
+.columns {
+    column-count:4;
+}
+
+.datetime {
+    column-count:2;
+}
+
+.form3 {
+    margin: 0rem auto;
+    max-height: 400vw;
+    max-width: 40vw;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 6px;
+    padding: 1rem;
+    background-color: white;
+}
+
+.createorder {
+    max-width: 100%;
+    max-height: 500vw;
+    padding-bottom: 4rem;
+    background-size: cover;
+}
+
+.createtitle {
+    text-align: center;
+}

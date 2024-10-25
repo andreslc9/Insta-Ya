@@ -1,0 +1,17 @@
+.create {
+    margin-top: 2vw;
+    margin-left: 79.7vw;
+}
+
+
+@media screen and (max-width: 500px){
+.create{
+    margin-top: 15vw;
+    width: 10vw;
+    margin-left: 70vw;
+}
+.textbt{
+    font-size: 3vw;
+    width: 20vw;
+}
+}

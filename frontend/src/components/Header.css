@@ -1,0 +1,27 @@
+.sign-out:hover {
+    box-shadow: 0 0 40px 40px black inset;
+}
+
+.header {
+    background-color:lightgrey;
+    height: 6vh;
+}
+
+.sign-out {
+    font-size: 1vw;;
+}
+
+@media screen and (max-width: 500px){
+    .sign-out:hover {
+        box-shadow: 0 0 40px 40px black inset;
+    }
+    
+    .header {
+        background-color:lightgrey;
+        height: 10vh;
+    }
+    
+    .sign-out {
+        font-size: 5vw;;
+    }
+    }
